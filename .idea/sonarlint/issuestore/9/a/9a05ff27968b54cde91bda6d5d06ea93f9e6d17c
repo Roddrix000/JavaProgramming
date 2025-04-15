@@ -1,0 +1,16 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùŠ¿¼
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕðÑ‘úÿÿÿÿ
+5
+java:S2326	"list is not used in the method.(åÉ®´
+^	java:S119	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(åÉ®´
+@	java:S106"+Replace this use of System.out by a logger.(ËÙƒ¤
+P	java:S125"<This block of commented-out lines of code should be removed.(ü¬×
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(˜°¿ƒ
+@	java:S106"+Replace this use of System.out by a logger.(ËÙƒ¤
+E	java:S106"+Replace this use of System.out by a logger.(èå»óùÿÿÿÿ
+K
+java:S1751"5Remove this "break" statement or make it conditional.(›ûä·
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ

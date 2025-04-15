@@ -1,0 +1,14 @@
+
+v
+java:S1104	"YMake duplicateData a static final constant or non-public and provide accessors if needed.(ëİ¸8Ùƒ‡¤Û2
+P
+java:S1444	"3Make this "public static duplicateData" field final(ëİ¸8Úƒ‡¤Û2
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğÖßİ8Úƒ‡¤Û2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕğÑ‘úÿÿÿÿ8Ûƒ‡¤Û2
+L	java:S106 "+Replace this use of System.out by a logger.(ãüòÅÿÿÿÿÿ8„„‡¤Û2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8„„‡¤Û2
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8„„‡¤Û2
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8…„‡¤Û2
