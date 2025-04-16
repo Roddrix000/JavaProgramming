@@ -17,3 +17,9 @@ a
 +src/BasicProgram/Find_Second_Duplicate.java,8\0\80817e8e175eb9191f192f81cf22b74a104076f1
 ^
 .src/BasicProgram/Find_Maximum_Consecutive.java,5\5\559911e7c39da74543ca72681740dc299f0f14bc
+Y
+)src/BasicProgram/Print_Sum_of_Digits.java,d\a\da20473c6a3ccd3a0a2313de58358d9505fce400
+h
+8src/BasicProgram/Program_Check_Number_Of_Characters.java,7\2\72d72cbdcfd0b51cb783ee4f9a0dfedc7135f1c1
+_
+/src/BasicProgram/Find_Duplicates_In_String.java,a\c\ac8becb4bd72f1ec68ca4daa8114c134bf50fa04
